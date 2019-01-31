@@ -1,0 +1,5 @@
+locations.json
+/Files/*
+/Process/*
+/node_modules/
+/Backups/*
