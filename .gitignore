@@ -1,5 +1,5 @@
 locations.json
-/Files/*
-/Process/*
 /node_modules/
-/Backups/*
+.idea/
+.DS_Store
+.vscode
